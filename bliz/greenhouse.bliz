@@ -1,0 +1,11 @@
+% gem_header 20 'text/gemini'
+
+# The Greenhouse
+
+In this small room, what looks like a window projects the image of a small patch of land within a bigger garden
+
+%%%
+proxy_site "gemini://astrobotany.mozz.us/public/ddd36c5d2fef42d7bde3a711f6131f79/m1"
+%%%
+
+=> gemini://astrobotany.mozz.us/app/garden/search?ori_bean Water my plant!

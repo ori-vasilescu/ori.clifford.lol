@@ -1,0 +1,6 @@
+=> ./ ↵ Go back
+
+# Ori (the Bean)
+
+So you've come to visit my quarters, welcome! A bit about me: I am a computer science student in the UK, hoping to one day teach the next generation to build cooler things than I have the time for.
+

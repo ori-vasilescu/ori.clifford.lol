@@ -1,0 +1,32 @@
+```ASCII art of a bean with a smiling face and a window to space through which a rocket and stars can be seen
+                                 __________________________________
+                                |  .        .         .         .  |
+           nnnnnnnnn            |      *                  _  .     |
+----------dlllllllllb-----------|               .    .   / \       |-----------
+---------lll *ll *lll-----------| *        *            | O |    . |-----------
+---------llllllllllll-----------|          *      *   . |---|      |-----------
+         llll lll lllb          |         *             |___|  .   |
+         Qlllll  lllllBn        |   .                    /_\       |
+          UlllllllllllllB       |     _ °      *   .     .:.      .|
+           ullllllllllllu       |   -(_)-                ;:;  .    |
+            uuuuuuuuuuuu        |__________________________________|
+```
+
+
+You made it on the main deck of the Bean's spaceship! Stay for a bit to accompany them on their journey through geminispace and you may find something interesting.
+
+## Rooms on the ship
+
+=> me.gmi 🧭 Captain's Room
+=> games.gmi 🎲 Game Room
+=> library/ 📚 The Library
+=> cinema.gmi 🎥 The Cinema
+=> greenhouse.bliz 🪴 The Greenhouse
+=> gemini://station.martinrue.com/ori_bean/tinylog 📌 Notice Board
+=> leo.gmi 🦁 Leo Landing Room
+
+## Wormholes to:
+
+=> friends.gmi my friends
+=> contact.gmi me in other spaces
+=> gemini://sdf.org/smokey/capsules/ Smokey's Capsule Collection

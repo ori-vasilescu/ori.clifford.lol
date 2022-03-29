@@ -1,0 +1,8 @@
+=> ./ ↵ Go back
+
+# My friends
+
+A list of friends I have in geminispace. If you want to make it on this list, contact me and we'll see if I think you're cool enough ;)
+
+=> gemini://tim.clifford.lol/ Tim
+=> gemini://goodclover.xyz/ Olive

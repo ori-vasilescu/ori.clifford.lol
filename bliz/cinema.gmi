@@ -1,0 +1,50 @@
+=> ./ ↵ Go back
+
+# The Cinema
+
+A dark room at what seems to be the bottom of the ship serves all flavours of popcorn and houses a large vending machine to serve soda and sweets. There seem to be some posters on the walls, advertising films and TV shows...
+
+## TV shows
+
+Encoded in brackets is (<seasons>x<episodes/season>x<minutes/episode>).
+
+* Avatar: The Last Airbender (3x20x24) 
+* Doctor Who 2005 (13x12x45) + a lot of specials
+* Love, Death, Robots (2x13x10)
+* The Midnight Gospel (1x8x25)
+* Atypical (4x10x30)
+* The Witcher (2x8x60)
+* Rick & Morty (4x10x22)
+* Stranger Things (3x8x50)
+* Sex Education (3x8x50)
+
+> In places, I have put a rough average instead of a range of values for ease of reading.
+
+## Films
+
+### Animation
+
+* The Lion King - 1994 - 88m
+* Spirited Away - 2001 - 125m
+* Tales From Earthsea - 2006 - 115m
+* Spirit: Stallion of the Cimmaron - 2002 - 83m
+* Howl's Moving Castle - 2004 - 119m
+* Princess Mononoke - 1997 - 134m
+* Ready Player One - 2018 - 140m
+
+### Others
+
+* Arrival - 2016 - 116m
+* Cloud Atlas - 2012 - 172m
+* The Truman Show - 1998 - 103m
+* Back to the Future - 1985 - 116m
+* Dead Poets Society - 1989 - 128m
+
+## Streaming
+
+As you make your way past the flashy posters and the signs trying to draw your attention, you find a dark long hallway with several doors into film theaters that are currently showing various episodes of TV shows, probably these are the current watching list of whoever resides here and made this place. In the seats of the theatres, beans sit aligned, silently watching, will you join them?
+
+* Arcane
+* Brooklyn 99
+* The IT Crowd
+* A:tlA

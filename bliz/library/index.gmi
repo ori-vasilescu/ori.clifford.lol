@@ -1,0 +1,23 @@
+=> ../ ↵ Go back
+
+# The Library
+
+As you make your way through the ship, the metal hulls, the thick windows
+overlooking light years of endless space, you come to a small cozy room that is
+not lit by the neon you are so used to, but a soft glow. Small floating lights
+dance around the room like fireflies and they draw your attention to a reading
+corner fashioned with velvet cushions and a small tea table that serves
+whatever beverage you most crave at any point in time. What would you like to
+read?
+
+## My short stories
+
+=> puddle.gmi The Puddle
+=> promise.gmi The Promise
+=> nolessthansix.gmi No Less Than Six
+
+## Recommended Reads
+
+=> https://www.goodreads.com/series/40957-the-hitchhiker-s-guide-to-the-galaxy The Hitchiker's Guide to the Galaxy by Douglas Adams
+=> https://www.goodreads.com/series/40909-earthsea-cycle The Earthsea Cycle by Ursula K. Le Guin
+=> https://www.goodreads.com/series/45262-the-kingkiller-chronicle The Kingkiller Chronicle by Patrick Rothfuss

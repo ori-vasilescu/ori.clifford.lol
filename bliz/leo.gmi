@@ -1,0 +1,30 @@
+# The Leo Landing Room
+
+```
+   nnnnnnnnn       
+  dlllllllllb      > Hello LEO traveller! It seems you have reached the Bean's
+ lll *ll *lll      > ship. This room is more quiet and to the side of the ship
+ llllllllllll      > so that you can easily leave.
+ llll lll lllb     > 
+ Qlllll  lllllBn   > If you decide to stay, you'll find some of my personal
+  UlllllllllllllB  > interests and pieces of work, as well as a personal set of
+   ullllllllllllu  > other capsules that I find cool in the geminispace.
+    uuuuuuuuuuuu   
+```
+
+=> ../ 🚀 Take me to the Main Hub!
+
+## Continue your journey on the orbit
+
+=> gemini://tilde.team/~khuxkm/leo/ What is the LEO Gemring?
+=> gemini://tilde.team/~khuxkm/leo/rand.cgi?gemini%3A%2F%2Fori.clifford.lol%2F Random Page
+=> gemini://tilde.team/~khuxkm/leo/next.cgi?gemini%3A%2F%2Fori.clifford.lol%2F Next Page
+=> gemini://tilde.team/~khuxkm/leo/prev.cgi?gemini%3A%2F%2Fori.clifford.lol%2F Previous Page
+
+## Directed jumps
+
+Some capsules I found interesting throughout my travels, in no particular order:
+
+=> gemini://tilde.pink/~edim/ Edim
+=> gemini://cobradile.cities.yesterweb.org/index.en.gmi Cobral's Capsule
+=> gemini://melyanna.flounder.online/ Melyanna
